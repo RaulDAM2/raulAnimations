@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fillAfter="false">
+    <translate
+        android:fromYDelta="0"
+        android:toYDelta="780"
+        android:fromXDelta="0"
+        android:toXDelta="410"
+        android:duration="550"
+        android:interpolator="@android:anim/accelerate_interpolator"
+        android:startOffset="300"/>
+
+    <translate
+        android:fromYDelta="0"
+        android:toYDelta="-720"
+        android:fromXDelta="0"
+        android:toXDelta="-820"
+        android:duration="550"
+        android:interpolator="@android:anim/accelerate_interpolator"
+        android:startOffset="900"/>
+
+    <translate
+        android:fromYDelta="0"
+        android:toYDelta="-620"
+        android:fromXDelta="0"
+        android:toXDelta="820"
+        android:duration="550"
+        android:interpolator="@android:anim/accelerate_interpolator"
+        android:startOffset="1500"/>
+
+    <translate
+        android:fromYDelta="0"
+        android:toYDelta="-230"
+        android:fromXDelta="0"
+        android:toXDelta="-200"
+        android:duration="500"
+        android:interpolator="@android:anim/accelerate_interpolator"
+        android:startOffset="2000"/>
+
+    <translate
+        android:fromYDelta="0"
+        android:toYDelta="500"
+        android:fromXDelta="0"
+        android:toXDelta="-620"
+        android:duration="550"
+        android:interpolator="@android:anim/accelerate_interpolator"
+        android:startOffset="2500"/>
+    <translate
+        android:fromYDelta="0"
+        android:toYDelta="1050"
+        android:fromXDelta="0"
+        android:toXDelta="500"
+        android:duration="550"
+        android:interpolator="@android:anim/accelerate_interpolator"
+        android:startOffset="3000"/>
+
+    <translate
+        android:fromYDelta="0"
+        android:toYDelta="-400"
+        android:fromXDelta="0"
+        android:toXDelta="320"
+        android:duration="550"
+        android:interpolator="@android:anim/accelerate_interpolator"
+        android:startOffset="3600"/>
+    <translate
+        android:fromYDelta="0"
+        android:toYDelta="-350"
+        android:fromXDelta="0"
+        android:toXDelta="-400"
+        android:duration="550"
+        android:interpolator="@android:anim/accelerate_interpolator"
+        android:startOffset="4100"/>
+</set>
